@@ -1,4 +1,4 @@
-# Linguagem-de-Programaço
+# Linguagem-de-Programação
 Disciplina do segundo período do curso: Linguagem de Programação
 
 Conteúdos:
